@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Egor 👋
+
+<a href="[telegram-url](https://t.me/egor_koptelov)">
+	<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+
+https://t.me/egor_koptelov
+
 
 <!--
 **kopegor/kopegor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,23 +1,22 @@
 ### Hi there, I'm Egor 👋
 
-<a href="[telegram-url](https://t.me/egor_koptelov)">
-	<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-
-https://t.me/egor_koptelov
+:envelope: [Telegram](https://t.me/egor_koptelov)  [Vk](https://vk.com/id563704417)
 
 
-<!--
-**kopegor/kopegor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
+- :book: 3rd year student in Moscow State University
+- 🌱 I’m currently learning **Reinforcement learning, Deep neural networks**
+- 📄 Know about my experiences [CV](cv-link)
+- 📫 How to reach me: [Telegram](https://t.me/egor_koptelov)  [Vk](https://vk.com/id563704417) [Email](mailto:egorkoptelov99@mail.ru)
+- :basketball: Fun fact: like to play Basketball
 
-Here are some ideas to get you started:
+### Languages and tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30"/>&nbsp;
+

@@ -2,8 +2,8 @@
 
 ### About me:
 - DS in Aramco Innovations
-- :book: 4th year student in Moscow State University
-- 📄 Know about my experiences [CV](https://github.com/kopegor/kopegor/blob/main/Koptelov_Egor_CV.pdf)
+- :book: 5th year student in Moscow State University
+- 📄 Know about my experiences [CV](https://github.com/kopegor/kopegor/blob/main/Egor_Koptelov_CV.pdf)
 - 📫 How to reach me: [Telegram](https://t.me/egor_koptelov)  [Vk](https://vk.com/id563704417) [Email](mailto:egorkoptelov99@mail.ru)
 - :basketball: Fun fact: like to play Basketball
 
